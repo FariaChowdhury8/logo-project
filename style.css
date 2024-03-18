@@ -1,0 +1,17 @@
+.f{
+    background-color: rgb(245, 60, 122);
+    height: 400px;
+}
+.ft{
+    background-color: aliceblue;
+}
+.fl{
+    background-color: rgb(245, 60, 122);
+}
+
+.user-details img{
+    width: 80px;
+}
+.user-details{
+    border-left: 4px solid #7b1798;
+}
